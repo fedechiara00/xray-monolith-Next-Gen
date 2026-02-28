@@ -23,7 +23,7 @@ MT version includes all features of standard Modded Exes described below, plus:
     * Grass rendering
     * Rain
     * Particles
-    * Bones calculations for models
+    * Bones calculations for models 
     * Engine scheduler, split between real-time updated objects on main thread and others on separate thread with configurable batch amount to do per frame
     * Feel and Vision for AI
     * Task Manager
